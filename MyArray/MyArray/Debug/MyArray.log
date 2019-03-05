@@ -1,0 +1,5 @@
+﻿  MyArray.cpp
+c:\users\jj\source\repos\myarray\myarray\myarray.cpp(41): warning C4018: '<': signed/unsigned mismatch
+c:\users\jj\source\repos\myarray\myarray\myarray.cpp(50): warning C4018: '<': signed/unsigned mismatch
+c:\users\jj\source\repos\myarray\myarray\myarray.cpp(77): warning C4018: '<': signed/unsigned mismatch
+  MyArray.vcxproj -> C:\Users\JJ\source\repos\MyArray\Debug\MyArray.exe

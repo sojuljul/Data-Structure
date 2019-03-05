@@ -1,0 +1,3 @@
+﻿  MyBinTree.cpp
+c:\users\jj\source\repos\mybintree\mybintree\mybintree.cpp(224): warning C4715: 'MyBinTree::searchPrivate': not all control paths return a value
+  MyBinTree.vcxproj -> C:\Users\JJ\source\repos\MyBinTree\Debug\MyBinTree.exe

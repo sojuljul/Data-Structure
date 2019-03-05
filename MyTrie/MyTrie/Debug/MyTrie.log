@@ -1,0 +1,4 @@
+﻿  MyTrie.cpp
+c:\users\jj\source\repos\mytrie\mytrie\mytrie.cpp(35): warning C4018: '<': signed/unsigned mismatch
+c:\users\jj\source\repos\mytrie\mytrie\mytrie.cpp(61): warning C4018: '<': signed/unsigned mismatch
+  MyTrie.vcxproj -> C:\Users\JJ\source\repos\MyTrie\Debug\MyTrie.exe
